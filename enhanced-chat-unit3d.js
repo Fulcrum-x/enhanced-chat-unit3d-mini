@@ -2,7 +2,7 @@
 // @name         Enhanced Chat Unit3D Mini
 // @version      1.0.0
 // @description  Chat functionalities: Reply, Message and Gift buttons. BBCode buttons. Toggle menu. Simplified fork of Enhanced Chat Unit3D 2.1.6 by ZukoXZoku that respects the users selected style sheet.
-// @icon         data:image/png;base64,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
+// @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEUAAAD///8VFWJmZmYJDSgOEyUOFCY1OEtFR1tERloNEyYSGCtaWXIOFCcDCBrSyuDCudavqMepo8igmrOMiLaBfrV3dK9saqdnaI5mZpZUWJE6RIMzQH4yNk8nK0UcITaBTadlAAAAIHRSTlMAAQQKGlZven2KmOr1/f3//////v/////+//////7+/rOyGe8AAAGWSURBVHjafZOBztsgDIS7Dfi3EGjB1BB3hPd/y9lzwpRI2qc2SeTT3UHE4+Q7/411y+Kskcc50CmPjfPhwLs5n5glXFiu069fPoYr3s6Yb481AbRxl7jZzkKPvaXt7mIvgjEK38IYIUydORSxtbh7H9dMFWulPnuYvwZL2IHfOAUR3/mNuO1s0oeshSWGZ7DF0FEozzcyHObPEMf3kcaOStXf7udK5Cmu0PBVKgr0aUg098sEIUKqBZX2m1jAIZphtS89Sz1DiGueFlYqCLW8eFS1xBRICf1IAyu86udTsWRREG1DHaYAa04qwItgRrAipTOi0r8Iqw8kDVLWomVjQVSHc5kdMRdWIJMzECVdp9GNYrbyfKEqSi5EK3jdqKNE3NlBmr6kINU9li3qVkuG9xxSBYLn1qiyv0+aIJ/78KBG1DJDw/N7a9HxmAknnd03Tgc/5A284bmGKFGvcc2NrxF+qoH0vBIHQOs9fR0C/aRKPyS+Aax8IgRRGB9ueGv+e/Tcj8cd46ZmcUYP9GWux9/a2/H/A2f6NJbF88fPAAAAAElFTkSuQmCC
 // @match        https://aither.cc/
 // @grant        GM_addStyle
 // @license      MIT
@@ -14,7 +14,7 @@
   if (window.__U3D_ENHANCED_CHAT_INIT__) return;
   window.__U3D_ENHANCED_CHAT_INIT__ = true;
 
-  const VERSION = "1.0.0";
+  const VERSION = "1.0.1";
 
   GM_addStyle(`
     /* Colors, borders and fonts come from the site's panelV2 / form__* classes. */
@@ -90,22 +90,10 @@
   // key: localStorage key, cls: <html> class applied while enabled
   const SETTINGS = [
     { id: "toggleBBCodes", key: "toggleBBCodes", cls: "u3d-bbcodes", def: true, label: "BBCodes" },
-    {
-      id: "toggleMessageGift",
-      key: "toggleMessageGift",
-      cls: "u3d-msg-gift",
-      def: true,
-      label: "Direct Message - Gift buttons"
-    },
+    { id: "toggleMessageGift", key: "toggleMessageGift", cls: "u3d-msg-gift", def: true, label: "Direct Message - Gift buttons" },
     { id: "toggleReply", key: "toggleReply", cls: "u3d-reply", def: true, label: "Reply button" },
     { id: "togglePanel", key: "togglePanel", cls: "u3d-panel-actions", def: false, label: "Show top Panel buttons" },
-    {
-      id: "actionsHover",
-      key: "u3dActionsHover",
-      cls: "u3d-actions-hover",
-      def: false,
-      label: "Show action buttons on hover"
-    }
+    { id: "actionsHover", key: "u3dActionsHover", cls: "u3d-actions-hover", def: false, label: "Show action buttons on hover" }
   ];
 
   const BB_MAIN = [
