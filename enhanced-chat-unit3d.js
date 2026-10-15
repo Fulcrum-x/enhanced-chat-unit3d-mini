@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Enhanced Chat Unit3D Mini
-// @version      1.0.0
+// @version      1.0.1
 // @description  Chat functionalities: Reply, Message and Gift buttons. BBCode buttons. Toggle menu. Simplified fork of Enhanced Chat Unit3D 2.1.6 by ZukoXZoku that respects the users selected style sheet.
 // @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEUAAAD///8VFWJmZmYJDSgOEyUOFCY1OEtFR1tERloNEyYSGCtaWXIOFCcDCBrSyuDCudavqMepo8igmrOMiLaBfrV3dK9saqdnaI5mZpZUWJE6RIMzQH4yNk8nK0UcITaBTadlAAAAIHRSTlMAAQQKGlZven2KmOr1/f3//////v/////+//////7+/rOyGe8AAAGWSURBVHjafZOBztsgDIS7Dfi3EGjB1BB3hPd/y9lzwpRI2qc2SeTT3UHE4+Q7/411y+Kskcc50CmPjfPhwLs5n5glXFiu069fPoYr3s6Yb481AbRxl7jZzkKPvaXt7mIvgjEK38IYIUydORSxtbh7H9dMFWulPnuYvwZL2IHfOAUR3/mNuO1s0oeshSWGZ7DF0FEozzcyHObPEMf3kcaOStXf7udK5Cmu0PBVKgr0aUg098sEIUKqBZX2m1jAIZphtS89Sz1DiGueFlYqCLW8eFS1xBRICf1IAyu86udTsWRREG1DHaYAa04qwItgRrAipTOi0r8Iqw8kDVLWomVjQVSHc5kdMRdWIJMzECVdp9GNYrbyfKEqSi5EK3jdqKNE3NlBmr6kINU9li3qVkuG9xxSBYLn1qiyv0+aIJ/78KBG1DJDw/N7a9HxmAknnd03Tgc/5A284bmGKFGvcc2NrxF+qoH0vBIHQOs9fR0C/aRKPyS+Aax8IgRRGB9ueGv+e/Tcj8cd46ZmcUYP9GWux9/a2/H/A2f6NJbF88fPAAAAAElFTkSuQmCC
 // @match        https://aither.cc/
